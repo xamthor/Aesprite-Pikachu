@@ -9,3 +9,7 @@ Sample code to test Aesprite and create some animate sprites with movement
 **Controls**
 
 WASD for movement
+
+**Build**
+
+Install Slaztone font in the resources folder before building 
